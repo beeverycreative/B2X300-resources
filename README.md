@@ -4,7 +4,7 @@ Resources for your B2X300 3D printer.
 Here you'll find extra parts you can add to your printer, printing profiles and others.
 
 ## Repository Usage
-The `master` branch on this repository is automatically mirrored from BEEVERYCREATIVE's internal git server to GitHub. This means that the `master` branch acts as a *public*.
+The `master` branch on this repository is automatically mirrored from BEEVERYCREATIVE's internal git server to GitHub. This means that the `master` branch acts as a *public* branch. **All changes must first be published to the internal Git server and will automatically self-propagate to GitHub**.
 
 To develop experimental and instable features you should do so on a *feature*  branch. Feature branches should always be named according to the following convention: `feature/ft-yourfeaturename`.
 
