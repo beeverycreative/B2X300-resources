@@ -1,3 +1,3 @@
 # Printing Profiles
 
-No printing profiles available yet :(
+Cura printing profiles for your B2X300 3D printer.
