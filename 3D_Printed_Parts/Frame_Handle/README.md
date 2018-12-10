@@ -1,7 +1,7 @@
 # B2X300 - Frame Handle
 
 This is the recommended Frame Handle for your **B2X300** 3D printer.
-It was designed so it is more comfortable when you need to move your B2X300. we recommend you print one if you plan on moving your printer frequently or when you need to hold for more than a few minutes (during transport, for example).
+It was designed so it is more comfortable when you need to move your B2X300. We recommend you print one if you plan on moving your printer frequently or when you need to hold for more than a few minutes (during transport, for example).
 
 ---
 
@@ -26,7 +26,7 @@ There is only one part you need to print:
 
 ## How to use
 
-The handle should be placed right below the LCD display and should fit tightly around the frame. Check the picture below for clarification: 
+The handle should be placed right below the LCD display and should fit tightly around the frame. Check the picture below for clarification:
 
 ![](renders/photo_01.jpg)
 
