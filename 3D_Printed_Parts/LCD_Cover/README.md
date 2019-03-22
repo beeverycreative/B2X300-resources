@@ -20,13 +20,10 @@ You can use BEEVERYCREATIVE's Cura PLA printing profile with the above modificat
 
 There is only one part you need to print:
 
-| Quantity | File name                   | Picture       |
-| -------- | --------------------------- | ------------- |
-| 1x       | `B2X300_LCD_cover_v1.3.stl` | (check below) |
+| Quantity | File name                   | Picture                    |
+| -------- | --------------------------- | -------------------------- |
+| 1x       | [`B2X300_LCD_cover_v1.3.stl`](https://github.com/beeverycreative/B2X300-resources/blob/master/3D_Printed_Parts/LCD_Cover/B2X300_LCD_cover_v1.3.stl) | ![](lcd-cover-preview.png) |
 
-
-
-<iframe src="https://render.githubusercontent.com/view/solid?url=https://raw.githubusercontent.com/beeverycreative/B2X300-resources/master/3D_Printed_Parts/LCD_Cover/B2X300_LCD_cover_v1.3.stl"></iframe>
 
 
 ## How to use
