@@ -24,7 +24,9 @@ There is only one part you need to print:
 | -------- | --------------------------- | ------------- |
 | 1x       | `B2X300_LCD_cover_v1.3.stl` | (check below) |
 
-<script src="https://embed.github.com/view/3d/beeverycreative/B2X300-resources/master/3D_Printed_Parts/LCD_Cover/B2X300_LCD_cover_v1.3.stl"></script> 
+
+
+<iframe src="https://render.githubusercontent.com/view/solid?url=https://raw.githubusercontent.com/beeverycreative/B2X300-resources/master/3D_Printed_Parts/LCD_Cover/B2X300_LCD_cover_v1.3.stl"></iframe>
 
 
 ## How to use
