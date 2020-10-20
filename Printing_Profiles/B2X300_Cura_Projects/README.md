@@ -1,12 +1,10 @@
 # B2X300 Profiles - Important Notice
 
-The profile file available here (`BEEVERYCREATIVE_B2X300_v1.2.3mf`) is only compatible with older versions of Cura (only for Cura 3.x) and is the only supported profile.
-
-You might also want to try to setup a printer profile for Cura 4.x but bear in mind that this is not supported by BEEVERYCREATIVE's customer support. Proceed at your own risk.
+The profile file available here (`BEEVERYCREATIVE_B2X300_v1.3.3mf`) is only compatible with Cura up to V4.7.1 and is the only supported profile.
 
 ## Cura 4 Profile
 
-Since version Cura 4.0 it is not possible to import a project file to quickly setup your B2X300 printer profile. Because of this, you have to manually set up your B2X300 printer. Follow the steps below to learn how to do it:
+If you do not want to import a project file to quickly setup your B2X300 printer profile you can manually set up your B2X300 printer. Follow the steps below to learn how to do it:
 
 1. Install the desired version of Cura (this has been tested on Cura 4.4.1)
 2. Open Cura
@@ -78,7 +76,7 @@ M117 Prime line...
 G1 Z0.4 F1200 ; move to layer height
 G1 Y50 E20 F360 ; prime nozzle
 G92 E0
-M201 Z50
+M201 Z50 ; Set Z print acceleration
 M77 ; Stop heat up timer
 M75 ; Start print timer
 M117 Printing...
@@ -93,7 +91,7 @@ M82 ; E Absolute
 G92 E0 ; set position
 G91 ; Position Relative
 G1 F1200 Z2 ; Z up
-G90 ; Position Absolut
+G90 ; Position Absolute
 M104 T0 S0 ; turn off Ext1 temperature
 M104 T1 S0 ; turn off Ext2 temperature
 M140 S0 ; turn off Bed temperature
