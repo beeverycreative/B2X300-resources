@@ -19,7 +19,7 @@ There is only one part you need to print:
 
 | Quantity | File name                       | Picture                      |
 | -------- | ------------------------------- | ---------------------------- |
-| 1x       | `Frame_feet_all.stl`            | ![](renders/cura_Frame_feet.png)   |
+| 1x       | `Frame_feet_all.stl`            | ![](renders/Cura_Frame_feet.png)   |
 
 * There is a 3mf version of the file if you want to print any part separately
 
