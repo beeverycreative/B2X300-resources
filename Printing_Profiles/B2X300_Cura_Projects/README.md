@@ -1,6 +1,10 @@
 # B2X300 Profiles - Important Notice
 
-The profile file available here (`BEEVERYCREATIVE_B2X300_v1.3.3mf`) is only compatible with Cura up to V4.7.1 and is the only supported profile.
+The profile file available here (`BEEVERYCREATIVE_B2X300_v1.3.3mf`) is only compatible with Cura up to V4.8.0 and is the only officialy supported profile.
+
+## Using E2
+Please note that due to a limitation on how Cura imports printer profiles only the E1 printing profile is imported when you open the B2X300 printer profile, if you wish to use E2 please install the Cura project file available here (`BEEVERYCREATIVE_B2X300_v1.3.3mf`) so that the B2X300 is configured in Cura and then install the adequate Cura printing profile for the material you desire to use.
+The profiles are available here https://github.com/beeverycreative/B2X300-resources/tree/master/Printing_Profiles/B2X300_Cura_Profiles .
 
 ## Cura 4 Profile
 
