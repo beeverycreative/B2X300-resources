@@ -32,11 +32,11 @@ Alternately you can use the "Spool_Holder_1kg_full_set.3mf" file which contains 
 
 ## Renders
 
-![](renders/corner.PNG)
+![](renders/Corner.png)
 
-![](renders/Front.PNG)
+![](renders/Front.png)
 
-![](renders/Side.PNG)
+![](renders/Side.png)
 
 ---
 
