@@ -6,6 +6,8 @@ You should update your 3D printer often to take advantage of the latest developm
 
 You can find compiled versions for Windows, macOS and Linux. The update process is pretty straight forward: just power on your printer, connect it to the computer and follow the instructions on the app.
 
+## If the printer cannot be found during the update procedure, ensure the USB cable is connected and the printer enabled, then install the driver for your platform available on the "USB driver" folder
+
 ---
 
 ### Help and Support
