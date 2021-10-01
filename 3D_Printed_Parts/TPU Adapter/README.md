@@ -8,7 +8,7 @@ For your **B2X300**, we recommend you print both the adapters, one for each extr
 ---
 
 ## Printing Settings
-You should print the TPU adapter in a rigid material that can whitstand 70ºC, for example PETG/ASA with the following settings:
+You should print the TPU adapter in a rigid material that can whitstand at least 70ºC, for example PETG/ASA with the following settings:
 - Layer height: 0.1mm
 - Outer walls: 4
 - Infill density: 30%
@@ -21,8 +21,8 @@ The estimated printing time is around `04h 01m`.
 
 | Quantity | File name                       | Picture                          |
 | -------- | ------------------------------- | ----------------------------     |
-| 1x       | `Spool_holder_1kg_main_body.stl`| ![](renders/E1_TPU_ADAPTER.jpg)  |
-| 1x       | `Spool_holder_1kg_axis.stl`     | ![](renders/E2_TPU_ADAPTER.jpg)  |
+| 1x       | `TPU Adapter E1.stl`            | ![](renders/E1_TPU_ADAPTER.jpg)  |
+| 1x       | `TPU Adapter E2.stl`            | ![](renders/E2_TPU_ADAPTER.jpg)  |
 
 ## Renders
 
